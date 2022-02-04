@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Rides &#8211; MAXUNI</title>
-	<atom:link href="/https://avshek-raj.github.io/Maxuni/category/rides/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://avshek-raj.github.io/Maxuni</link>
+	<atom:link href="https://avshek-raj.github.io/Maxuni/category/rides/feed/" rel="self" type="application/rss+xml" />
+	<link>https://avshek-raj.github.io/Maxuni</link>
 	<description>Just anything</description>
 	<lastBuildDate>Sun, 30 Jan 2022 09:33:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
-	<url>/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/New-Project-3.png</url>
+	<url>https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/New-Project-3.png</url>
 	<title>Rides &#8211; MAXUNI</title>
-	<link>/https://avshek-raj.github.io/Maxuni</link>
+	<link>https://avshek-raj.github.io/Maxuni</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
