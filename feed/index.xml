@@ -9,8 +9,8 @@
 
 <channel>
 	<title>MAXUNI</title>
-	<atom:link href="https://avshek-raj.github.io./feed/" rel="self" type="application/rss+xml" />
-	<link>https://avshek-raj.github.io.</link>
+	<atom:link href="/https://avshek-raj.github.io/Maxuni/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://avshek-raj.github.io/Maxuni</link>
 	<description>Just anything</description>
 	<lastBuildDate>Sat, 29 Jan 2022 08:18:31 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
-	<url>https://avshek-raj.github.io./wp-content/uploads/2022/01/New-Project-3.png</url>
+	<url>/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/New-Project-3.png</url>
 	<title>MAXUNI</title>
-	<link>https://avshek-raj.github.io.</link>
+	<link>/https://avshek-raj.github.io/Maxuni</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Top 10 best movies of 2021:</title>
-		<link>https://avshek-raj.github.io./top-10-best-movies-of-2021/</link>
-					<comments>https://avshek-raj.github.io./top-10-best-movies-of-2021/#respond</comments>
+		<link>/https://avshek-raj.github.io/Maxuni/top-10-best-movies-of-2021/</link>
+					<comments>/https://avshek-raj.github.io/Maxuni/top-10-best-movies-of-2021/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 26 Jan 2022 10:41:14 +0000</pubDate>
 				<category><![CDATA[Watch]]></category>
-		<guid isPermaLink="false">https://avshek-raj.github.io./?p=22</guid>
+		<guid isPermaLink="false">/https://avshek-raj.github.io/Maxuni/?p=22</guid>
 
 					<description><![CDATA[Here are top 10 movies best among all the movies that got released in 2021.]]></description>
 										<content:encoded><![CDATA[<p>The year 2021 provided us with many super cool movies even at the moment of pandemic. As the year 2021 finally came to an end. Here are top 10 movies best among all the movies that got released in 2021.</p>
@@ -47,7 +47,7 @@
 
 
 
-<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="720" src="https://avshek-raj.github.io./wp-content/uploads/2022/01/spider-man-no-way-home-villains-s.jpg" alt="" data-id="87" data-link="https://avshek-raj.github.io./?attachment_id=87" class="wp-image-87"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="720" src="/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/spider-man-no-way-home-villains-s.jpg" alt="" data-id="87" data-link="/https://avshek-raj.github.io/Maxuni/?attachment_id=87" class="wp-image-87"/></figure></li></ul></figure>
 
 
 
@@ -63,7 +63,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="750" height="375" src="https://avshek-raj.github.io./wp-content/uploads/2022/01/F9-movie-History.jpg" alt="" class="wp-image-94"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="750" height="375" src="/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/F9-movie-History.jpg" alt="" class="wp-image-94"/></figure>
 
 
 
@@ -79,7 +79,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="715" height="402" src="https://avshek-raj.github.io./wp-content/uploads/2022/01/eternals-1635945303-1.jpg" alt="" class="wp-image-100"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="715" height="402" src="/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/eternals-1635945303-1.jpg" alt="" class="wp-image-100"/></figure>
 
 
 
@@ -95,7 +95,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1920" height="1080" src="https://avshek-raj.github.io./wp-content/uploads/2022/01/dune-10.jpg" alt="" class="wp-image-101"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1920" height="1080" src="/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/dune-10.jpg" alt="" class="wp-image-101"/></figure>
 
 
 
@@ -111,7 +111,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1280" height="720" src="https://avshek-raj.github.io./wp-content/uploads/2022/01/shang-chi-review-mcu.jpg" alt="" class="wp-image-107"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1280" height="720" src="/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/shang-chi-review-mcu.jpg" alt="" class="wp-image-107"/></figure>
 
 
 
@@ -127,7 +127,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="667" src="https://avshek-raj.github.io./wp-content/uploads/2022/01/venom1200.jpg" alt="" class="wp-image-112"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="667" src="/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/venom1200.jpg" alt="" class="wp-image-112"/></figure>
 
 
 
@@ -143,7 +143,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1280" height="720" src="https://avshek-raj.github.io./wp-content/uploads/2022/01/maxresdefault.jpg" alt="" class="wp-image-102"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1280" height="720" src="/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/maxresdefault.jpg" alt="" class="wp-image-102"/></figure>
 
 
 
@@ -155,7 +155,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1600" height="900" src="https://avshek-raj.github.io./wp-content/uploads/2022/01/MV5BZWVjMmY4ODUtMmYzMC00NDdjLWE4MjMtOWUzMDBlNzczOGMwXkEyXkFqcGdeQWpnYW1i._V1_.jpg" alt="" class="wp-image-108"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1600" height="900" src="/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/MV5BZWVjMmY4ODUtMmYzMC00NDdjLWE4MjMtOWUzMDBlNzczOGMwXkEyXkFqcGdeQWpnYW1i._V1_.jpg" alt="" class="wp-image-108"/></figure>
 
 
 
@@ -167,7 +167,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="750" height="375" src="https://avshek-raj.github.io./wp-content/uploads/2022/01/ghostbusters-afterlife-character-guide.jpg" alt="" class="wp-image-109"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="750" height="375" src="/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/ghostbusters-afterlife-character-guide.jpg" alt="" class="wp-image-109"/></figure>
 
 
 
@@ -179,7 +179,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="750" src="https://avshek-raj.github.io./wp-content/uploads/2022/01/black-widow-sortie-disney-plus.jpg" alt="" class="wp-image-111"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="750" src="/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/black-widow-sortie-disney-plus.jpg" alt="" class="wp-image-111"/></figure>
 
 
 
@@ -194,20 +194,20 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://avshek-raj.github.io./top-10-best-movies-of-2021/feed/</wfw:commentRss>
+					<wfw:commentRss>/https://avshek-raj.github.io/Maxuni/top-10-best-movies-of-2021/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Paradise for Trek lovers : Everest Base Camp Trek</title>
-		<link>https://avshek-raj.github.io./a-paradise-for-holiday/</link>
-					<comments>https://avshek-raj.github.io./a-paradise-for-holiday/#comments</comments>
+		<link>/https://avshek-raj.github.io/Maxuni/a-paradise-for-holiday/</link>
+					<comments>/https://avshek-raj.github.io/Maxuni/a-paradise-for-holiday/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 26 Jan 2022 10:41:13 +0000</pubDate>
 				<category><![CDATA[Travel]]></category>
-		<guid isPermaLink="false">https://avshek-raj.github.io./?p=21</guid>
+		<guid isPermaLink="false">/https://avshek-raj.github.io/Maxuni/?p=21</guid>
 
 					<description><![CDATA[Everest Base Camp Trek]]></description>
 										<content:encoded><![CDATA[
@@ -231,7 +231,7 @@
 
 
 
-<!-- Final Tiles Grid Gallery for WordPress v3.5.4 free --><style>#ftg-11 .tile .icon { color:#ffffff; }#ftg-11 .ftg-items .loading-bar i { background:#666; }#ftg-11 .ftg-items .loading-bar { background:#fff; }#ftg-11 .tile .icon { font-size:12px; }#ftg-11 .tile .icon { margin: -6px 0 0 -6px; }#ftg-11 .tile .caption-block .text-wrapper span.text { font-size:12px; }#ftg-11 .tile .caption-outside .text-wrapper span.text { font-size:12px; }#ftg-11 .tile .caption-block .text-wrapper span.title { font-size:14px; }#ftg-11 .tile .caption-outside .text-wrapper span.title { font-size:14px; }#ftg-11 .tile { background-color: transparent; }#ftg-11 .tile .caption-block .text-wrapper span.text { color: #ffffff; }#ftg-11 .tile .caption-block .text-wrapper span.title { color: #ffffff; }#ftg-11 .tile .caption-outside .text-wrapper span.text { color: #ffffff; }#ftg-11 .tile .caption-outside .text-wrapper span.title { color: #ffffff; }#ftg-11 .tile .ftg-social a { color: #ffffff; }#ftg-11 .tile .caption-block { transition-duration:0.25s; }#ftg-11 .tile .tile-inner:before { background-color: #000000; }#ftg-11 .tile .tile-inner:before { background-color: rgba(0, 0, 0, 0.8); }#ftg-11 .tile:hover img {-moz-transform: ;-webkit-transform: ;-o-transform: ;-ms-transform: ;transform: ;}</style><a name='1'></a><div class='final-tiles-gallery  ftg-hover-enabled caption-inside  caption-none caption-middle caption-center' id='ftg-11' style='width:100%'><div class='ftg-items'><div class='loading-bar'><i></i></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/scott-fisher-memorial-everest-base-camp-trek-fallen.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/scott-fisher-memorial-everest-base-camp-trek-fallen.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/scott-fisher-memorial-everest-base-camp-trek-fallen.jpg' width='910' height='607' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/nepal-namche-ama-dablam-namche-bazar.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/nepal-namche-ama-dablam-namche-bazar.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/nepal-namche-ama-dablam-namche-bazar.jpg' width='910' height='607' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/nepal-everest-base-camp-khumbu-range.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/nepal-everest-base-camp-khumbu-range.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/nepal-everest-base-camp-khumbu-range.jpg' width='910' height='606' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/mountains-mount-everest-base-camp-mountaineering.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/mountains-mount-everest-base-camp-mountaineering.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/mountains-mount-everest-base-camp-mountaineering.jpg' width='910' height='683' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/mountain-peak-summit-white.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/mountain-peak-summit-white.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/mountain-peak-summit-white.jpg' width='910' height='607' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/landscape-lake-village-nepal-wallpaper-preview.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/landscape-lake-village-nepal-wallpaper-preview.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/landscape-lake-village-nepal-wallpaper-preview.jpg' width='728' height='455' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/itinerary_lg__T4A7688.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/itinerary_lg__T4A7688.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/itinerary_lg__T4A7688.jpg' width='1440' height='810' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/itinerary_lg__T4A7683.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/itinerary_lg__T4A7683.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/itinerary_lg__T4A7683.jpg' width='1440' height='810' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/itinerary_lg__T4A0797.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/itinerary_lg__T4A0797.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/itinerary_lg__T4A0797.jpg' width='1440' height='810' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/everest-base-camp-landscape-himalaya.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/everest-base-camp-landscape-himalaya.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/everest-base-camp-landscape-himalaya.jpg' width='910' height='607' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/everest-base-camp-gokyo-ri-glacier-himalayas.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/everest-base-camp-gokyo-ri-glacier-himalayas.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/everest-base-camp-gokyo-ri-glacier-himalayas.jpg' width='910' height='607' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/everest-base-camp-nepal-to-2018-8.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/everest-base-camp-nepal-to-2018-8.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/everest-base-camp-nepal-to-2018-8.jpg' width='910' height='512' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/everest-kalapathar-trek98.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/everest-kalapathar-trek98.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/everest-kalapathar-trek98.jpg' width='800' height='600' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='https://avshek-raj.github.io./wp-content/uploads/2022/01/View-from-Gorakshep-5164-m-1350x670-1.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='https://avshek-raj.github.io./wp-content/uploads/2022/01/View-from-Gorakshep-5164-m-1350x670-1.jpg' src='https://avshek-raj.github.io./wp-content/uploads/2022/01/View-from-Gorakshep-5164-m-1350x670-1.jpg' width='1350' height='670' /></a><div class='ftg-social'></div></div></div></div><script type='text/javascript'>jQuery('#ftg-11 img.item').removeAttr('src');jQuery(document).ready(function () {setTimeout(function () {jQuery('#ftg-11').finalTilesGallery({minTileWidth: 250,margin: 10,loadMethod: 'sequential',nonce: 'd6e9ddc1b9',galleryId: '1',setupFilters: true,layout: 'final',debug: false,gridSize: 25,disableGridSizeBelow:800,allowEnlargement: true,imageSizeFactor: [ [4000, 0.3],[1024, 0.3],[768, 0.2],[640, 0.3],[320, 0.2]],selectedFilter: 'n-a'});jQuery(function () {(function () {var rel = '';jQuery('#ftg-11 .ftg-lightbox').click(function (e) {rel = jQuery(this).attr('rel');jQuery('#ftg-11 .ftg-current').removeClass('ftg-current');jQuery('#ftg-11 [rel="'+rel+'"]').addClass('ftg-current');});})();});}, 0);});</script>
+<!-- Final Tiles Grid Gallery for WordPress v3.5.4 free --><style>#ftg-11 .tile .icon { color:#ffffff; }#ftg-11 .ftg-items .loading-bar i { background:#666; }#ftg-11 .ftg-items .loading-bar { background:#fff; }#ftg-11 .tile .icon { font-size:12px; }#ftg-11 .tile .icon { margin: -6px 0 0 -6px; }#ftg-11 .tile .caption-block .text-wrapper span.text { font-size:12px; }#ftg-11 .tile .caption-outside .text-wrapper span.text { font-size:12px; }#ftg-11 .tile .caption-block .text-wrapper span.title { font-size:14px; }#ftg-11 .tile .caption-outside .text-wrapper span.title { font-size:14px; }#ftg-11 .tile { background-color: transparent; }#ftg-11 .tile .caption-block .text-wrapper span.text { color: #ffffff; }#ftg-11 .tile .caption-block .text-wrapper span.title { color: #ffffff; }#ftg-11 .tile .caption-outside .text-wrapper span.text { color: #ffffff; }#ftg-11 .tile .caption-outside .text-wrapper span.title { color: #ffffff; }#ftg-11 .tile .ftg-social a { color: #ffffff; }#ftg-11 .tile .caption-block { transition-duration:0.25s; }#ftg-11 .tile .tile-inner:before { background-color: #000000; }#ftg-11 .tile .tile-inner:before { background-color: rgba(0, 0, 0, 0.8); }#ftg-11 .tile:hover img {-moz-transform: ;-webkit-transform: ;-o-transform: ;-ms-transform: ;transform: ;}</style><a name='1'></a><div class='final-tiles-gallery  ftg-hover-enabled caption-inside  caption-none caption-middle caption-center' id='ftg-11' style='width:100%'><div class='ftg-items'><div class='loading-bar'><i></i></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/scott-fisher-memorial-everest-base-camp-trek-fallen.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/scott-fisher-memorial-everest-base-camp-trek-fallen.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/scott-fisher-memorial-everest-base-camp-trek-fallen.jpg' width='910' height='607' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/nepal-namche-ama-dablam-namche-bazar.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/nepal-namche-ama-dablam-namche-bazar.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/nepal-namche-ama-dablam-namche-bazar.jpg' width='910' height='607' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/nepal-everest-base-camp-khumbu-range.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/nepal-everest-base-camp-khumbu-range.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/nepal-everest-base-camp-khumbu-range.jpg' width='910' height='606' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/mountains-mount-everest-base-camp-mountaineering.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/mountains-mount-everest-base-camp-mountaineering.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/mountains-mount-everest-base-camp-mountaineering.jpg' width='910' height='683' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/mountain-peak-summit-white.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/mountain-peak-summit-white.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/mountain-peak-summit-white.jpg' width='910' height='607' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/landscape-lake-village-nepal-wallpaper-preview.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/landscape-lake-village-nepal-wallpaper-preview.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/landscape-lake-village-nepal-wallpaper-preview.jpg' width='728' height='455' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/itinerary_lg__T4A7688.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/itinerary_lg__T4A7688.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/itinerary_lg__T4A7688.jpg' width='1440' height='810' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/itinerary_lg__T4A7683.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/itinerary_lg__T4A7683.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/itinerary_lg__T4A7683.jpg' width='1440' height='810' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/itinerary_lg__T4A0797.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/itinerary_lg__T4A0797.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/itinerary_lg__T4A0797.jpg' width='1440' height='810' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/everest-base-camp-landscape-himalaya.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/everest-base-camp-landscape-himalaya.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/everest-base-camp-landscape-himalaya.jpg' width='910' height='607' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/everest-base-camp-gokyo-ri-glacier-himalayas.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/everest-base-camp-gokyo-ri-glacier-himalayas.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/everest-base-camp-gokyo-ri-glacier-himalayas.jpg' width='910' height='607' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/everest-base-camp-nepal-to-2018-8.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/everest-base-camp-nepal-to-2018-8.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/everest-base-camp-nepal-to-2018-8.jpg' width='910' height='512' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/everest-kalapathar-trek98.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/everest-kalapathar-trek98.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/everest-kalapathar-trek98.jpg' width='800' height='600' /></a><div class='ftg-social'></div></div><div  class='tile ftg-preload  '><a title="" data-lightbox='ftg-11' rel='ftg-11'  class=' tile-inner  ftg-lightbox' href='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/View-from-Gorakshep-5164-m-1350x670-1.jpg' ><img alt='' class='item skip-lazy' data-class='item' data-ftg-source='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/View-from-Gorakshep-5164-m-1350x670-1.jpg' src='/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/View-from-Gorakshep-5164-m-1350x670-1.jpg' width='1350' height='670' /></a><div class='ftg-social'></div></div></div></div><script type='text/javascript'>jQuery('#ftg-11 img.item').removeAttr('src');jQuery(document).ready(function () {setTimeout(function () {jQuery('#ftg-11').finalTilesGallery({minTileWidth: 250,margin: 10,loadMethod: 'sequential',nonce: '87c7425ff9',galleryId: '1',setupFilters: true,layout: 'final',debug: false,gridSize: 25,disableGridSizeBelow:800,allowEnlargement: true,imageSizeFactor: [ [4000, 0.3],[1024, 0.3],[768, 0.2],[640, 0.3],[320, 0.2]],selectedFilter: 'n-a'});jQuery(function () {(function () {var rel = '';jQuery('#ftg-11 .ftg-lightbox').click(function (e) {rel = jQuery(this).attr('rel');jQuery('#ftg-11 .ftg-current').removeClass('ftg-current');jQuery('#ftg-11 [rel="'+rel+'"]').addClass('ftg-current');});})();});}, 0);});</script>
 
 
 
@@ -334,21 +334,21 @@
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Catch the flight back to Kathmandu.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://avshek-raj.github.io./a-paradise-for-holiday/feed/</wfw:commentRss>
+					<wfw:commentRss>/https://avshek-raj.github.io/Maxuni/a-paradise-for-holiday/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Side Effects  of consuming too much Coffee</title>
-		<link>https://avshek-raj.github.io./get-more-nutrition-in-every-bite/</link>
-					<comments>https://avshek-raj.github.io./get-more-nutrition-in-every-bite/#respond</comments>
+		<link>/https://avshek-raj.github.io/Maxuni/get-more-nutrition-in-every-bite/</link>
+					<comments>/https://avshek-raj.github.io/Maxuni/get-more-nutrition-in-every-bite/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 26 Jan 2022 10:41:12 +0000</pubDate>
 				<category><![CDATA[Foods]]></category>
 		<category><![CDATA[Health]]></category>
-		<guid isPermaLink="false">https://avshek-raj.github.io./?p=19</guid>
+		<guid isPermaLink="false">/https://avshek-raj.github.io/Maxuni/?p=19</guid>
 
 					<description><![CDATA[Effects of consuming too much coffee]]></description>
 										<content:encoded><![CDATA[
@@ -376,7 +376,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="2000" height="1333" src="https://avshek-raj.github.io./wp-content/uploads/2022/01/Coffee-Feature-1.jpg" alt="" class="wp-image-127"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="2000" height="1333" src="/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/Coffee-Feature-1.jpg" alt="" class="wp-image-127"/></figure>
 
 
 
@@ -719,21 +719,21 @@
 <p>To get the benefits of caffeine without undesirable effects, conduct an honest assessment of your sleep, energy levels and other factors that might be affected, and reduce your intake if needed.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://avshek-raj.github.io./get-more-nutrition-in-every-bite/feed/</wfw:commentRss>
+					<wfw:commentRss>/https://avshek-raj.github.io/Maxuni/get-more-nutrition-in-every-bite/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Coffee is health food: Myth or fact?</title>
-		<link>https://avshek-raj.github.io./coffee-is-health-food-myth-or-fact/</link>
-					<comments>https://avshek-raj.github.io./coffee-is-health-food-myth-or-fact/#respond</comments>
+		<link>/https://avshek-raj.github.io/Maxuni/coffee-is-health-food-myth-or-fact/</link>
+					<comments>/https://avshek-raj.github.io/Maxuni/coffee-is-health-food-myth-or-fact/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 26 Jan 2022 10:41:10 +0000</pubDate>
 				<category><![CDATA[Foods]]></category>
 		<category><![CDATA[Health]]></category>
-		<guid isPermaLink="false">https://avshek-raj.github.io./?p=18</guid>
+		<guid isPermaLink="false">/https://avshek-raj.github.io/Maxuni/?p=18</guid>
 
 					<description><![CDATA[Coffee can be healthy and non healthy at the same time. It&#8217;s healthy or not depends on the way that]]></description>
 										<content:encoded><![CDATA[
@@ -753,7 +753,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="2000" height="1333" src="https://avshek-raj.github.io./wp-content/uploads/2022/01/Coffee-Feature.jpg" alt="" class="wp-image-120"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="2000" height="1333" src="/https://avshek-raj.github.io/Maxuni/wp-content/uploads/2022/01/Coffee-Feature.jpg" alt="" class="wp-image-120"/></figure>
 
 
 
@@ -980,7 +980,7 @@
 <p>Still, drinking coffee in moderation — about three to four cups per day — has been associated with several health benefits and is generally considered safe for most adults </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://avshek-raj.github.io./coffee-is-health-food-myth-or-fact/feed/</wfw:commentRss>
+					<wfw:commentRss>/https://avshek-raj.github.io/Maxuni/coffee-is-health-food-myth-or-fact/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
